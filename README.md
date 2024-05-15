@@ -18,3 +18,5 @@ For Colab chose T4
 llama-3-8b is will working with japanese Language too
 
 ### Happy coding
+
+![alt text](images/jp-image.png)
